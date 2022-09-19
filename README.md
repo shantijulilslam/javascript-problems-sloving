@@ -1,1 +1,1 @@
-# javascript-assignment
+# javascript-problems-sloving
